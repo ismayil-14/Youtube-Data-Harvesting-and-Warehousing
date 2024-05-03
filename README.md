@@ -40,6 +40,16 @@ To use this project , follow these steps:
 4. Utilize SQL queries to join tables within the SQL data warehouse and retrieve specific channel data based on user input.
 5. Displaying retrieved data in the streamlit application.
 
+# Screenshots
+
+![Home Page](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/e41b9230-c29f-45a1-be98-687faf432925)
+
+![Data Extraction](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/044bbc73-a523-4161-9df5-aff2966160a9)
+
+![View](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/671c50bc-20a5-4319-9cb9-1b400da61b68)
+
+![Data Visualization](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/4b44cb97-a498-4c41-89d6-16acf8171755)
+
 # Contact Information:
 Email : mmismayil2003@gmail.com
 If you have any more questions or need further information, please on't hesitate to get in touch. We're here to help and answer any inquiries you may have.
