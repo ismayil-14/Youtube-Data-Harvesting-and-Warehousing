@@ -42,13 +42,13 @@ To use this project , follow these steps:
 
 # Screenshots
 
-![Home Page](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/e41b9230-c29f-45a1-be98-687faf432925)
+![Home Page](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/8d17c9bc-29bc-4185-b4bb-e8a801317099)
 
-![Data Extraction](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/044bbc73-a523-4161-9df5-aff2966160a9)
+![Data Extraction](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/e1611469-cef5-430d-96d7-4a5a05aa3abd)
 
-![View](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/671c50bc-20a5-4319-9cb9-1b400da61b68)
+![View](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/6a964965-868e-4985-8e4d-26bf353cab19)
 
-![Data Visualization](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/4b44cb97-a498-4c41-89d6-16acf8171755)
+![Data Visualization](https://github.com/ismayil-14/Youtube-Data-Harvesting-and-Warehousing/assets/154823988/020abad4-3d42-4947-9ae3-5f571865d22b)
 
 # Contact Information:
 Email : mmismayil2003@gmail.com
