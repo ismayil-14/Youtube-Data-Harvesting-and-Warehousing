@@ -52,4 +52,4 @@ To use this project , follow these steps:
 
 # Contact Information:
 Email : mmismayil2003@gmail.com
-If you have any more questions or need further information, please on't hesitate to get in touch. We're here to help and answer any inquiries you may have.
+If you have any more questions or need further information, please don't hesitate to get in touch. We're here to help and answer any inquiries you may have.
